@@ -1,0 +1,185 @@
+/* ===========================
+   Comprehensive Color Palette
+   =========================== */
+
+/* === Primary Colors === */
+.primary-red { color: #FF0000; }          /* สีแดง */
+.primary-green { color: #00FF00; }        /* สีเขียว */
+.primary-blue { color: #0000FF; }         /* สีน้ำเงิน */
+.primary-yellow { color: #FFFF00; }       /* สีเหลือง */
+.primary-cyan { color: #00FFFF; }         /* สีฟ้า */
+.primary-magenta { color: #FF00FF; }      /* สีม่วงแดง */
+
+/* === Neutral Colors === */
+.black { color: #000000; }                /* สีดำ */
+.white { color: #FFFFFF; }                /* สีขาว */
+.gray { color: #808080; }                 /* สีเทากลาง */
+.light-gray { color: #D3D3D3; }           /* สีเทาอ่อน */
+.dark-gray { color: #404040; }            /* สีเทาเข้ม */
+.silver { color: #C0C0C0; }               /* สีเงิน */
+.dim-gray { color: #696969; }             /* เทาหม่น */
+.gainsboro { color: #DCDCDC; }            /* เทาเงินอ่อน */
+.smoke-white { color: #F5F5F5; }          /* ขาวควัน */
+
+/* === Pastel Colors === */
+.pastel-pink { color: #FFB6C1; }          /* ชมพูอ่อน */
+.pastel-blue { color: #ADD8E6; }          /* ฟ้าอ่อน */
+.pastel-green { color: #90EE90; }         /* เขียวอ่อน */
+.pastel-yellow { color: #FFFFE0; }        /* เหลืองอ่อน */
+.pastel-purple { color: #E6E6FA; }        /* ม่วงลาเวนเดอร์ */
+.pastel-orange { color: #FFE4B5; }        /* ส้มพีช */
+.pastel-mint { color: #F5FFFA; }          /* มิ้นต์ */
+
+/* === Warm Colors === */
+.orange { color: #FFA500; }               /* ส้ม */
+.dark-orange { color: #FF8C00; }          /* ส้มเข้ม */
+.light-orange { color: #FFDAB9; }         /* ส้มพีช */
+.coral { color: #FF7F50; }                /* ส้มปะการัง */
+.brown { color: #A52A2A; }                /* น้ำตาล */
+.chocolate { color: #D2691E; }            /* ช็อกโกแลต */
+.goldenrod { color: #DAA520; }            /* ทองแดง */
+.dark-goldenrod { color: #B8860B; }       /* ทองแดงเข้ม */
+.beige { color: #F5F5DC; }                /* สีเบจ */
+
+/* === Cool Colors === */
+.teal { color: #008080; }                 /* เขียวน้ำทะเล */
+.aqua { color: #00FFFF; }                 /* ฟ้าอ่อน */
+.dark-aqua { color: #008B8B; }            /* ฟ้าเข้ม */
+.sea-green { color: #2E8B57; }            /* เขียวทะเล */
+.medium-sea-green { color: #3CB371; }     /* เขียวทะเลกลาง */
+.spring-green { color: #00FF7F; }         /* เขียวสดใส */
+.pale-turquoise { color: #AFEEEE; }       /* ฟ้าเทอร์ควอยซ์อ่อน */
+.powder-blue { color: #B0E0E6; }          /* ฟ้าฝุ่น */
+
+/* === Extended Blue Tones === */
+.dark-blue { color: #000080; }            /* น้ำเงินเข้ม */
+.navy-blue { color: #00008B; }            /* น้ำเงินกรม */
+.steel-blue { color: #4682B4; }           /* น้ำเงินเหล็ก */
+.cornflower-blue { color: #6495ED; }      /* น้ำเงินคราม */
+.deep-sky-blue { color: #00BFFF; }        /* น้ำเงินสด */
+.dodger-blue { color: #1E90FF; }          /* น้ำเงินฟ้าสด */
+.sky-blue { color: #87CEEB; }             /* ฟ้าสดใส */
+
+/* === Extended Red Tones === */
+.crimson { color: #DC143C; }              /* แดงชาด */
+.dark-red { color: #8B0000; }             /* แดงเข้ม */
+.firebrick { color: #B22222; }            /* แดงอิฐ */
+.light-coral { color: #F08080; }          /* ชมพูพีช */
+.salmon { color: #FA8072; }               /* แซลมอน */
+.dark-salmon { color: #E9967A; }          /* แซลมอนเข้ม */
+.indian-red { color: #CD5C5C; }           /* แดงอินเดีย */
+
+/* === Purple Tones === */
+.indigo { color: #4B0082; }               /* ม่วงคราม */
+.violet { color: #EE82EE; }               /* ม่วงสด */
+.blue-violet { color: #8A2BE2; }          /* ม่วงน้ำเงิน */
+.dark-violet { color: #9400D3; }          /* ม่วงเข้ม */
+.medium-purple { color: #9370DB; }        /* ม่วงกลาง */
+.plum { color: #DDA0DD; }                 /* ม่วงพลัม */
+.lavender { color: #E6E6FA; }             /* ม่วงลาเวนเดอร์ */
+
+/* === Yellow and Gold Tones === */
+.gold { color: #FFD700; }                 /* ทอง */
+.dark-khaki { color: #BDB76B; }           /* เขียวอมเหลืองเข้ม */
+.light-khaki { color: #F0E68C; }          /* เขียวอมเหลืองอ่อน */
+.moccasin { color: #FFE4B5; }             /* น้ำตาลเหลืองอ่อน */
+.pale-goldenrod { color: #EEE8AA; }       /* ทองอ่อน */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ===========================
+   Comprehensive Background Colors Palette
+   =========================== */
+
+/* === Primary Background Colors === */
+.bg-primary-red { background-color: #FF0000; }          /* แดง */
+.bg-primary-green { background-color: #00FF00; }        /* เขียว */
+.bg-primary-blue { background-color: #0000FF; }         /* น้ำเงิน */
+.bg-primary-yellow { background-color: #FFFF00; }       /* เหลือง */
+.bg-primary-cyan { background-color: #00FFFF; }         /* ฟ้า */
+.bg-primary-magenta { background-color: #FF00FF; }      /* ม่วงแดง */
+
+/* === Neutral Background Colors === */
+.bg-black { background-color: #000000; }                /* ดำ */
+.bg-white { background-color: #FFFFFF; }                /* ขาว */
+.bg-gray { background-color: #808080; }                 /* เทากลาง */
+.bg-light-gray { background-color: #D3D3D3; }           /* เทาอ่อน */
+.bg-dark-gray { background-color: #404040; }            /* เทาเข้ม */
+.bg-silver { background-color: #C0C0C0; }               /* เงิน */
+.bg-dim-gray { background-color: #696969; }             /* เทาหม่น */
+.bg-gainsboro { background-color: #DCDCDC; }            /* เทาเงินอ่อน */
+.bg-smoke-white { background-color: #F5F5F5; }          /* ขาวควัน */
+
+/* === Warm Background Colors === */
+.bg-orange { background-color: #FFA500; }               /* ส้ม */
+.bg-dark-orange { background-color: #FF8C00; }          /* ส้มเข้ม */
+.bg-light-orange { background-color: #FFDAB9; }         /* ส้มพีช */
+.bg-coral { background-color: #FF7F50; }                /* ปะการัง */
+.bg-brown { background-color: #A52A2A; }                /* น้ำตาล */
+.bg-chocolate { background-color: #D2691E; }            /* ช็อกโกแลต */
+.bg-goldenrod { background-color: #DAA520; }            /* ทองแดง */
+.bg-dark-goldenrod { background-color: #B8860B; }       /* ทองแดงเข้ม */
+.bg-beige { background-color: #F5F5DC; }                /* เบจ */
+
+/* === Cool Background Colors === */
+.bg-teal { background-color: #008080; }                 /* เขียวน้ำทะเล */
+.bg-aqua { background-color: #00FFFF; }                 /* ฟ้า */
+.bg-dark-aqua { background-color: #008B8B; }            /* ฟ้าเข้ม */
+.bg-sea-green { background-color: #2E8B57; }            /* เขียวทะเล */
+.bg-medium-sea-green { background-color: #3CB371; }     /* เขียวทะเลกลาง */
+.bg-spring-green { background-color: #00FF7F; }         /* เขียวสดใส */
+.bg-pale-turquoise { background-color: #AFEEEE; }       /* ฟ้าเทอร์ควอยซ์อ่อน */
+.bg-powder-blue { background-color: #B0E0E6; }          /* ฟ้าฝุ่น */
+
+/* === Pastel Background Colors === */
+.bg-pastel-pink { background-color: #FFB6C1; }          /* ชมพูอ่อน */
+.bg-pastel-blue { background-color: #ADD8E6; }          /* ฟ้าอ่อน */
+.bg-pastel-green { background-color: #90EE90; }         /* เขียวอ่อน */
+.bg-pastel-yellow { background-color: #FFFFE0; }        /* เหลืองอ่อน */
+.bg-pastel-purple { background-color: #E6E6FA; }        /* ม่วงลาเวนเดอร์ */
+.bg-pastel-orange { background-color: #FFE4B5; }        /* ส้มพีช */
+.bg-pastel-mint { background-color: #F5FFFA; }          /* มิ้นต์ */
+
+/* === Extended Blue Background Colors === */
+.bg-dark-blue { background-color: #000080; }            /* น้ำเงินเข้ม */
+.bg-navy-blue { background-color: #00008B; }            /* น้ำเงินกรม */
+.bg-steel-blue { background-color: #4682B4; }           /* น้ำเงินเหล็ก */
+.bg-cornflower-blue { background-color: #6495ED; }      /* น้ำเงินคราม */
+.bg-deep-sky-blue { background-color: #00BFFF; }        /* น้ำเงินสด */
+.bg-dodger-blue { background-color: #1E90FF; }          /* น้ำเงินฟ้าสด */
+.bg-sky-blue { background-color: #87CEEB; }             /* ฟ้าสดใส */
+
+/* === Extended Red Background Colors === */
+.bg-crimson { background-color: #DC143C; }              /* แดงชาด */
+.bg-dark-red { background-color: #8B0000; }             /* แดงเข้ม */
+.bg-firebrick { background-color: #B22222; }            /* แดงอิฐ */
+.bg-light-coral { background-color: #F08080; }          /* ชมพูพีช */
+.bg-salmon { background-color: #FA8072; }               /* แซลมอน */
+.bg-dark-salmon { background-color: #E9967A; }          /* แซลมอนเข้ม */
+.bg-indian-red { background-color: #CD5C5C; }           /* แดงอินเดีย */
+
+/* === Purple Background Colors === */
+.bg-indigo { background-color: #4B0082; }               /* ม่วงคราม */
+.bg-violet { background-color: #EE82EE; }               /* ม่วงสด */
+.bg-blue-violet { background-color: #8A2BE2; }          /* ม่วงน้ำเงิน */
+.bg-dark-violet { background-color: #9400D3; }          /* ม่วงเข้ม */
+.bg-medium-purple { background-color: #9370DB; }        /* ม่วงกลาง */
+.bg-plum { background-color: #DDA0DD; }                 /* ม่วงพลัม */
+.bg-lavender { background-color: #E6E6FA; }             /* ม่วงลาเวนเดอร์ */
+
+/* === Yellow and Gold Background Colors === */
+.bg-gold { background-color: #FFD700; }                 /* ทอง */
+.bg-dark-khaki { background-color: #BDB76B; }           /* เขียวอมเหลืองเข้ม */
+.bg-light-khaki { background-color: #F0E68C; }          /* เขียวอมเหลืองอ่อน */
+.bg-moccasin { background-color: #FFE4B5; }             /* น้ำตาลเหลืองอ่อน */
+.bg-pale-goldenrod { background-color: #EEE8AA; }       /* ทองอ่อน */
